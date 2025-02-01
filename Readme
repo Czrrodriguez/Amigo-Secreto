@@ -1,0 +1,18 @@
+
+Amigo Secreto
+
+Una aplicación web para organizar un juego de "Amigo Secreto" de manera automática. 
+Permite ingresar una lista de participantes y genera aleatoriamente las asignaciones de cada amigo secreto.
+
+*** Tecnologías utilizadas ***
+
+-HTML 
+-CSS 
+-JavaScript
+
+***Características***
+
+-Ingreso de lista de amigos.
+-Algoritmo de asignación aleatoria sin repetición.
+-Interfaz sencilla y fácil de usar.
+
