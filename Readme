@@ -1,19 +1,31 @@
 
-**Amigo Secreto**
+*Amigo Secreto*
 
-Una aplicación web para organizar un juego de "Amigo Secreto" de manera automática. 
-Permite ingresar una lista de participantes y genera aleatoriamente las asignaciones de cada amigo secreto.
+Este es un pequeño juego de "Amigo Secreto" en el que los participantes ingresan sus nombres y el sistema los empareja de manera aleatoria, asegurando que nadie se asigne a sí mismo
 
-*** Tecnologías utilizadas ***
+*Características*
+
+-Agregar nombres: Los usuarios pueden ingresar los nombres de los participantes y agregarlos a una lista visible.
+-Validación de entrada: Se evita agregar nombres vacíos.
+-Visualización de la lista: Se muestra la lista de amigos ingresados.
+-Sorteo automático: Se asigna un amigo secreto a cada participante de manera aleatoria, asegurando que nadie se asigne a sí mismo.
+-Interfaz intuitiva: Con botones para agregar amigos y realizar el sorteo.
+
+*Cómo jugar*
+
+-Escribe el nombre de cada participante en el campo de texto y presiona "Añadir".
+-Una vez que todos los nombres estén en la lista, presiona "Sortear Amigo".
+-El sistema generará los emparejamientos y los mostrará en pantalla.
+
+*Tecnologías utilizadas*
 
 -HTML 
 -CSS 
 -JavaScript
 
-***Características***
+*Instalación y uso*
 
--Ingreso de lista de amigos.
--Algoritmo de asignación aleatoria sin repetición.
--Interfaz sencilla y fácil de usar.
--Ingresar dos o mas amigos para mezclar entre si y realizar un asocie de amigos.
+-Descarga o clona este repositorio.
+-Abre el archivo index.html en un navegador web.
+-Disfruta del juego con tus amigos.
 
